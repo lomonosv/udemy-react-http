@@ -14,7 +14,6 @@ class Blog extends Component {
                         <ul>
                             <li><NavLink
                                 to="/posts"
-                                exact
                                 activeClassName="my-active"
                                 activeStyle={ {
                                     color: '#fa923f',
